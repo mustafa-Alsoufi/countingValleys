@@ -1,4 +1,4 @@
 # countingValleys
 
-![](bin/1.PNG)
-![](bin/2.PNG)
+![](src/1.PNG)
+![](src/2.PNG)
